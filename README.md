@@ -3,7 +3,7 @@
 This repository contains the official implementation for "Pseudo Label Learning for Partial Point Cloud Registration"
 
 ## Introduction
- We propose a novel pseudo label learning strategy that utilizes the complementarity between these two tasks to learn overlapping regions and correspondences. This strategy generates two types of pseudo labels for each task based on the distance between pairs of aligned
+ We propose a novel pseudo label learning strategy that utilizes the complementarity between these two tasks to learn overlapping regions and correspondences. This strategy generates two types of pseudo labels for each task based on the distance between pairs of aligned
 point clouds. During the learning process, errors in pseudo labels are gradually reduced as the accuracy of the overlap areas and correspondences improves.
 
 ## Get Started
