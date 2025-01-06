@@ -21,6 +21,10 @@ The code has been trained and tested with Python 3.8, PyTorch 1.12.0 and CUDA 10
 cd model_utils
 python test_model.py
 ```
+### Checkpoints
+
+We have uploaded the best model checkpoint weights in the repository, and you can change the path to load the model weights in 'test_madel.py'
+
 
 ### Training
 ```
