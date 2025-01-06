@@ -23,7 +23,7 @@ python test_model.py
 ```
 ### Checkpoints
 
-We have uploaded the best model checkpoint weights in the repository, and you can change the path to load the model weights in 'test_madel.py'
+We have uploaded the best model checkpoint weights in the repository, and you can change the path to load the model weights in 'test_model.py'
 
 
 ### Training
