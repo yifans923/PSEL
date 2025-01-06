@@ -23,7 +23,7 @@ python test_model.py
 ```
 ### Checkpoints
 
-We have uploaded the best model checkpoint weights in the repository, and you can change the path to load the model weights in 'test_model.py'
+We have uploaded the best model checkpoint weights in the [repository path]( https://github.com/yifans923/PSEL/tree/e93266efce742b842b39346cf618d7687cb57000/model_utils/checkpoint), and you can change the path to load the model weights in 'test_model.py'
 
 
 ### Training
